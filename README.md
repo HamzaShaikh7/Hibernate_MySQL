@@ -14,14 +14,14 @@
 
 **src/**<br>
 └── **main/**<br>
-............  ├── **java/com/connect/Spring_Boot_MySQL_Hibernate/**<br>
-............  │ ............  ├── controller/ProductController.java<br>
-............  │ ............  ├── entity/Product.java<br>
-............  │ ............  ├── repository/ProductRepository.java<br>
-............  │ ............  ├── service/ProductService.java<br>
-............  │ ............  └── SpringBootMySqlHibernateApplication.java<br>
-............  └── **resources/**<br>
-.......................    └── application.properties<br>
+. . . . . .   ├── **java/com/connect/Spring_Boot_MySQL_Hibernate/**<br>
+. . . . . .    │ . . . . . .    ├── controller/ProductController.java<br>
+. . . . . .    │ . . . . . .    ├── entity/Product.java<br>
+. . . . . .    │ . . . . . .    ├── repository/ProductRepository.java<br>
+. . . . . .    │ . . . . . .    ├── service/ProductService.java<br>
+. . . . . .    │ . . . . . .    └── SpringBootMySqlHibernateApplication.java<br>
+. . . . . .    └── **resources/**<br>
+. . . . . .  . . . . . . . . . . .      └── application.properties<br>
 
 
 
